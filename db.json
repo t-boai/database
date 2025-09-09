@@ -1,0 +1,545 @@
+{
+  "jobs": [
+    {
+      "idCompany": 1,
+      "id": 1,
+      "title": "Lập Trình Viên Front End (WEB)",
+      "company": "CÔNG TY TNHH SWGAME",
+      "tags": ["HTML5", "CSS3", "JavaScript"],
+      "category": "Frontend",
+      "city": ["Đà Nẵng"],
+      "salary": 120000,
+      "description": [
+        "- Am hiểu HTML5, CSS3, JavaScript.",
+        "- Phát triển ứng dụng front-end đa nền tảng.",
+        "- Thiết kế UI/UX, tối ưu trải nghiệm người dùng.",
+        "- Hợp tác với backend để gỡ lỗi."
+      ],
+      "status": false,
+      "createAt": "2025-08-10 12:00:00",
+      "updateAt": "2025-08-15 12:30:00",
+      "jobStyle": "Full Time"
+    },
+    {
+      "idCompany": 1,
+      "id": 2,
+      "title": "Lập Trình Viên Back End (PHP)",
+      "company": "CÔNG TY TNHH SWGAME",
+      "tags": ["PHP", "MySQL", "API"],
+      "category": "Backend",
+      "city": ["Hồ Chí Minh"],
+      "salary": 150000,
+      "description": [
+        "- Phát triển ứng dụng web với PHP & MySQL.",
+        "- Thiết kế API tích hợp hệ thống.",
+        "- Tối ưu hiệu suất backend.",
+        "- Hợp tác với frontend để đảm bảo tương thích."
+      ],
+      "status": true,
+      "createAt": "2025-08-12 09:00:00",
+      "updateAt": "2025-08-16 10:30:00",
+      "jobStyle": "Part Time"
+    },
+    {
+      "idCompany": 2,
+      "id": 3,
+      "title": "Backend Developer",
+      "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ CAO ALTISSS",
+      "tags": ["C++", "C#", "Oracle", "MySQL", "PostgreSQL", "PL/SQL"],
+      "category": "Backend",
+      "city": ["Hồ Chí Minh"],
+      "salary": 80000,
+      "description": [
+        "- Phát triển hệ thống phần mềm chứng khoán.",
+        "- Thêm tính năng mới & cải tiến.",
+        "- Phối hợp BA để thiết kế giải pháp.",
+        "- Triển khai dự án phần mềm."
+      ],
+      "status": true,
+      "createAt": "2025-08-14 08:00:00",
+      "updateAt": "2025-08-18 09:30:00",
+      "jobStyle": "Full Time"
+    },
+    {
+      "idCompany": 4,
+      "id": 4,
+      "title": "AI Research Engineer",
+      "company": "OpenAI",
+      "tags": ["Python", "PyTorch", "TensorFlow", "Deep Learning", "NLP"],
+      "category": "AI",
+      "city": ["San Francisco"],
+      "salary": 300000,
+      "description": [
+        "- Conduct research and development in deep learning for natural language processing.",
+        "- Optimize AI models for performance and accuracy.",
+        "- Collaborate with product teams to integrate AI into real-world applications.",
+        "- Publish research at top AI conferences."
+      ],
+      "status": true,
+      "createAt": "2025-08-18 09:00:00",
+      "updateAt": "2025-08-21 11:30:00",
+      "jobStyle": "Remote"
+    },
+    {
+      "idCompany": 5,
+      "id": 5,
+      "title": "Frontend Software Engineer",
+      "company": "Meta",
+      "tags": ["React", "TypeScript", "GraphQL", "UI/UX"],
+      "category": "Frontend",
+      "city": ["Menlo Park"],
+      "salary": 220000,
+      "description": [
+        "- Develop and optimize web interfaces for millions of users.",
+        "- Build scalable UI systems using React and GraphQL.",
+        "- Collaborate with designers and backend engineers.",
+        "- Improve performance and scalability of front-end applications."
+      ],
+      "status": true,
+      "createAt": "2025-08-19 10:00:00",
+      "updateAt": "2025-08-22 14:00:00",
+      "jobStyle": "Remote"
+    },
+    {
+      "idCompany": 6,
+      "id": 6,
+      "title": "Cybersecurity Analyst",
+      "company": "Microsoft",
+      "tags": ["Cybersecurity", "Pentesting", "Cloud Security", "Azure"],
+      "category": "Security",
+      "city": ["Redmond"],
+      "salary": 180000,
+      "description": [
+        "- Analyze and respond to global cybersecurity threats.",
+        "- Implement security solutions across Azure cloud systems.",
+        "- Perform penetration testing and recommend preventive measures.",
+        "- Work with global teams to protect millions of customers."
+      ],
+      "status": true,
+      "createAt": "2025-08-20 08:30:00",
+      "updateAt": "2025-08-23 12:00:00",
+      "jobStyle": "Remote"
+    },
+    {
+      "idCompany": 2,
+      "id": 7,
+      "title": "Trưởng Phòng Số Hóa",
+      "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ CAO ALTISSS",
+      "tags": ["Agile", "Scrum", "Project Management", "Communication"],
+      "category": "Project Manager",
+      "city": ["Hà Nội"],
+      "salary": 120000,
+      "description": [
+        "- Quản lý công tác chuyên môn nghiệp vụ số hóa và phân công công việc của các thành viên trong phòng.",
+        "- Chịu trách nhiệm trước ban lãnh đạo về tiến độ, chất lượng công việc của phòng.",
+        "- Tham mưu cho ban lãnh đạo các giải pháp/ kế hoạch số hóa phù hợp với mục tiêu phát triển của Công ty.",
+        "- Phối hợp với các đối tác (khách hàng/đơn vị tư vấn) đưa ra các giải pháp, chi phí phù hợp với yêu cầu của khách hàng."
+      ],
+      "status": true,
+      "createAt": "2025-08-21 08:45:00",
+      "updateAt": "2025-08-24 13:00:00",
+      "jobStyle": "Full Time"
+    },
+    {
+      "idCompany": 7,
+      "id": 8,
+      "title": "AI Engineer",
+      "company": "MB Bank",
+      "tags": [
+        "Python",
+        "C++",
+        "TensorFlow",
+        "PyTorch",
+        "NLP",
+        "Computer Vision",
+        "Deep Learning",
+        "MLOps",
+        "DevOps",
+        "FastAPI",
+        "Docker",
+        "Kubernetes"
+      ],
+      "category": "AI",
+      "city": ["Hà Nội"],
+      "salary": "Thoả thuận",
+      "description": [
+        "- Phát triển, ứng dụng, tối ưu, tích hợp mô hình AI cho các bài toán ứng dụng trong hoạt động Kinh doanh/Ngân hàng (Computer Vision, NLP...).",
+        "- Tham gia vào các công đoạn triển khai dịch vụ: Kiến trúc hệ thống, thiết kế mô hình hoạt động, luồng hoạt động, chức năng, tối ưu performance.",
+        "- Coding, test metrics, service và unittest theo mô hình DevOps, MLOps.",
+        "- Nghiên cứu, tìm hiểu các bài báo khoa học mới nhất về AI, ML, DL.",
+        "- Sinh viên tài năng và fresher: tham gia chương trình đào tạo và dự án dành cho Trainee để phát triển lên các vị trí chính thức."
+      ],
+      "status": true,
+      "createAt": "2025-08-23 16:20:00",
+      "updateAt": "2025-08-23 16:20:00",
+      "jobStyle": "Full Time"
+    }
+  ],
+  "cv": [
+    {
+      "id": 1,
+      "name": "Bùi Triệu Tín",
+      "email": "bttboai@gmail.com",
+      "phone": "0796388722",
+      "description": "Lập trình viên Front End với 3 năm kinh nghiệm trong phát triển ứng dụng web và di động. Thành thạo HTML5, CSS3, JavaScript và các framework phổ biến.",
+      "linkProject": "https://softypinkoboai.vercel.app/",
+      "city": "Đà Nẵng",
+      "idJob": 1,
+      "idCompany": 1,
+      "createAt": "2025-10-01 12:00:00",
+      "statusRead": true
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "email": "tranthib@gmail.com",
+      "phone": "0987654321",
+      "description": "Lập trình viên Back End với 2 năm kinh nghiệm phát triển API và quản lý cơ sở dữ liệu. Thành thạo PHP, MySQL, có khả năng tối ưu hóa hiệu suất ứng dụng.",
+      "linkProject": "https://github.com/tranthib/project1",
+      "city": "Hồ Chí Minh",
+      "idJob": 2,
+      "idCompany": 1,
+      "createAt": "2025-10-02 09:30:00",
+      "statusRead": false
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn C",
+      "email": "levanc@gmail.com",
+      "phone": "0912345678",
+      "description": "Quản trị viên hệ thống với 4 năm kinh nghiệm triển khai DevOps, CI/CD, Docker và Kubernetes. Có kỹ năng giám sát và xử lý sự cố hệ thống.",
+      "linkProject": "https://github.com/levanc/project1",
+      "city": "Hà Nội",
+      "idJob": 3,
+      "idCompany": 1,
+      "createAt": "2025-10-03 14:30:00",
+      "statusRead": false
+    },
+    {
+      "id": 4,
+      "name": "Phạm Minh D",
+      "email": "phamminhd@gmail.com",
+      "phone": "0934567890",
+      "description": "Python Developer (Fresher) ham học hỏi, có kiến thức nền tảng về Python và FastAPI, mong muốn phát triển kỹ năng backend qua các dự án thực tế.",
+      "linkProject": "https://github.com/phamminhd/project1",
+      "city": "Hồ Chí Minh",
+      "idJob": 5,
+      "idCompany": 3,
+      "createAt": "2025-10-05 10:30:00",
+      "statusRead": false
+    }
+  ],
+
+  "site": [
+    {
+      "id": 1,
+      "city": "Hồ Chí Minh",
+      "nation": "Việt Nam",
+      "detail": "Thành phố lớn nhất Việt Nam, trung tâm kinh tế, tài chính, thương mại và văn hóa sôi động, được mệnh danh là 'Hòn ngọc Viễn Đông'.",
+      "thumbnail": "https://images.pexels.com/photos/1258776/pexels-photo-1258776.jpeg?_gl=1*13ruhhr*_ga*MjQ0MTM4NDkwLjE3NTcxNDUwMjU.*_ga_8JE65Q40S6*czE3NTcxNDUwMjUkbzEkZzEkdDE3NTcxNDUwNzkkajYkbDAkaDA."
+    },
+    {
+      "id": 2,
+      "city": "Hà Nội",
+      "nation": "Việt Nam",
+      "detail": "Thủ đô ngàn năm văn hiến, nơi hội tụ tinh hoa lịch sử, chính trị, văn hóa và giáo dục của cả nước.",
+      "thumbnail": "https://images.pexels.com/photos/33698687/pexels-photo-33698687.jpeg?_gl=1*zpzsbm*_ga*MjQ0MTM4NDkwLjE3NTcxNDUwMjU.*_ga_8JE65Q40S6*czE3NTcxNDUwMjUkbzEkZzEkdDE3NTcxNDUzMzkkajYwJGwwJGgw"
+    },
+    {
+      "id": 3,
+      "city": "Hải Phòng",
+      "nation": "Việt Nam",
+      "detail": "Thành phố cảng lớn nhất miền Bắc, đầu mối giao thương quan trọng với tiềm năng công nghiệp và dịch vụ logistics.",
+      "thumbnail": "https://images.pexels.com/photos/2984555/pexels-photo-2984555.jpeg?_gl=1*luowmc*_ga*MjQ0MTM4NDkwLjE3NTcxNDUwMjU.*_ga_8JE65Q40S6*czE3NTcxNDUwMjUkbzEkZzEkdDE3NTcxNDU0OTkkajQ4JGwwJGgw"
+    },
+    {
+      "id": 4,
+      "city": "Cần Thơ",
+      "nation": "Việt Nam",
+      "detail": "Trung tâm kinh tế và văn hóa của đồng bằng sông Cửu Long, nổi tiếng với chợ nổi, miệt vườn và sông nước hữu tình.",
+      "thumbnail": "https://images.pexels.com/photos/13132957/pexels-photo-13132957.jpeg?_gl=1*659ysq*_ga*MjQ0MTM4NDkwLjE3NTcxNDUwMjU.*_ga_8JE65Q40S6*czE3NTcxNDUwMjUkbzEkZzEkdDE3NTcxNDU1ODckajU5JGwwJGgw"
+    },
+    {
+      "id": 5,
+      "city": "Bình Dương",
+      "nation": "Việt Nam",
+      "detail": "Một trong những tỉnh công nghiệp phát triển hàng đầu, nằm sát TP. Hồ Chí Minh với nhiều khu công nghiệp hiện đại.",
+      "thumbnail": "https://i.pinimg.com/1200x/96/41/ed/9641edd85e2d9f7609c4ee7b84925c1f.jpg"
+    },
+    {
+      "id": 6,
+      "city": "Đồng Tháp",
+      "nation": "Việt Nam",
+      "detail": "Vùng đất sen hồng đặc trưng miền Tây, gắn liền với cảnh quan sông nước và văn hóa miệt vườn.",
+      "thumbnail": "https://i.pinimg.com/1200x/e6/58/1f/e6581fd00afdbc2b81ad6227d83a113d.jpg"
+    },
+    {
+      "id": 7,
+      "city": "San Francisco",
+      "nation": "USA",
+      "detail": "A world-famous city in California, known for the Golden Gate Bridge, cultural diversity, and as a hub for innovation and technology.",
+      "thumbnail": "https://i.pinimg.com/1200x/ba/55/48/ba5548b13565aff4dfa27669d0493787.jpg"
+    },
+    {
+      "id": 8,
+      "city": "Menlo Park",
+      "nation": "USA",
+      "detail": "Located in Silicon Valley, this city is home to many tech companies, most notably Meta (formerly Facebook).",
+      "thumbnail": "https://i.pinimg.com/1200x/83/83/5d/83835d825159f82cefc13c19164ba784.jpg"
+    },
+    {
+      "id": 9,
+      "city": "Redmond",
+      "nation": "USA",
+      "detail": "A prominent technology city in Washington state, best known as the headquarters of Microsoft and other major tech firms.",
+      "thumbnail": "https://i.pinimg.com/1200x/48/a5/b7/48a5b7ebf69817429bc0617e353ad27d.jpg"
+    }
+  ],
+
+  "tags": [
+    { "id": 1, "name": "HTML5" },
+    { "id": 2, "name": "CSS3" },
+    { "id": 3, "name": "JavaScript" },
+    { "id": 4, "name": "PHP" },
+    { "id": 5, "name": "MySQL" },
+    { "id": 6, "name": "Python" },
+    { "id": 7, "name": "FastAPI" },
+    { "id": 8, "name": "DevOps" }
+  ],
+
+  "position": [
+    { "id": 1, "name": "Frontend Web", "category": "Frontend" },
+    { "id": 2, "name": "Backend Web", "category": "Backend" },
+    { "id": 3, "name": "Fullstack Web", "category": "Backend" },
+    { "id": 4, "name": "Lập trình viên Mobile", "category": "Frontend" },
+    { "id": 5, "name": "Backend Python Developer", "category": "Backend" },
+    { "id": 6, "name": "Lập trình viên AI", "category": "AI" },
+    { "id": 7, "name": "Kỹ sư Machine Learning", "category": "AI" },
+    { "id": 8, "name": "Data Engineer", "category": "AI" },
+    { "id": 9, "name": "DevOps Engineer", "category": "Backend" },
+    { "id": 10, "name": "UI/UX Designer", "category": "Frontend" }
+  ],
+
+  "categories": [
+    { "id": 1, "name": "Frontend", "number": 0 },
+    { "id": 2, "name": "Backend", "number": 0 },
+    { "id": 3, "name": "AI", "number": 0 },
+    { "id": 4, "name": "Software Engineering", "number": 0 },
+    { "id": 5, "name": "Security", "number": 0 },
+    { "id": 6, "name": "Finance", "number": 0 },
+    { "id": 7, "name": "Project Manager", "number": 0 },
+    { "id": 8, "name": "Customer Services", "number": 0 }
+  ],
+
+  "companies": [
+    {
+      "id": 1,
+      "name": "SWGAME Co., Ltd.",
+      "address": "3/12 Phổ Quang, Phường 2, Tân Bình, TP. Hồ Chí Minh, Việt Nam",
+      "website": "https://swgame.com",
+      "phone": "+84 28 1234 5678",
+      "email": "contactswgame@gmail.com",
+      "password": "swgame123",
+      "workingTime": "Thứ 2 - Thứ 6: 8:00 - 17:30, Thứ 7: 8:00 - 12:00",
+      "token": "xkahfqwfHHF5612",
+      "quantityPeople": "500+",
+      "thumbnail": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/689ea6a6442a41755227814.png",
+      "details": [
+        "Đội ngũ kỹ sư chuyên nghiệp",
+        "Sản phẩm đa dạng từ game đến ứng dụng",
+        "Cam kết chất lượng và trải nghiệm người dùng",
+        "Mức lương cạnh tranh",
+        "Đầy đủ chế độ bảo hiểm xã hội",
+        "Môi trường làm việc năng động, sáng tạo"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ALTISSS JSC",
+      "address": "104 Mai Thị Lựu, Đa Kao, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+      "website": "https://altisss.com",
+      "phone": "+84 28 9876 5432",
+      "email": "contact@altisss.com",
+      "password": "altisss2025",
+      "workingTime": "Thứ 2 - Thứ 6: 8:30 - 18:00",
+      "token": "litasejt358KKjss",
+      "thumbnail": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/cong-ty-co-phan-smartosc-61d50e76c4aec.jpg",
+      "quantityPeople": "400+",
+      "description": "ALTISSS cung cấp giải pháp phần mềm công nghệ cao cho tài chính, chứng khoán và doanh nghiệp.",
+      "details": [
+        "Chuyên phần mềm giao dịch chứng khoán",
+        "Đội ngũ kỹ sư giàu kinh nghiệm",
+        "Môi trường chuyên nghiệp, năng động",
+        "Lương thưởng dự án hấp dẫn",
+        "Đầy đủ chế độ bảo hiểm xã hội",
+        "Cơ hội thăng tiến nghề nghiệp",
+        "Đào tạo chuyên môn định kỳ"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CIGRO Vietnam Co., Ltd.",
+      "address": "Tầng 6-7, Tòa nhà Hữu Nghị, 31 Lê Duẩn, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+      "website": "https://cigrovietnam.com",
+      "phone": "+84 236 123 4567",
+      "email": "info@cigrovietnam.com",
+      "password": "cigro2025",
+      "workingTime": "Thứ 2 - Thứ 6: 8:00 - 17:00",
+      "token": "sfkjasf35KLasfS",
+      "quantityPeople": "99+",
+      "description": "CIGRO Vietnam tập trung phát triển phần mềm, giải pháp web và đào tạo lập trình viên.",
+      "details": [
+        "Đội ngũ trẻ, năng động",
+        "Đào tạo lập trình viên chuyên sâu",
+        "Giải pháp phần mềm theo yêu cầu",
+        "Môi trường thân thiện, hỗ trợ",
+        "Thu nhập ổn định kèm thưởng",
+        "Đầy đủ chế độ bảo hiểm xã hội",
+        "Cơ hội thực tập và phát triển sự nghiệp"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "OpenAI",
+      "address": "3180 18th St, San Francisco, CA, USA",
+      "website": "https://openai.com",
+      "phone": "+1 800-555-2025",
+      "email": "careers@openai.com",
+      "password": "openai2025",
+      "workingTime": "Mon - Fri: 9:00 - 18:00",
+      "token": "OPENAI-TOKEN-2025",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzG_vX3TpuO8NW30ABqm_hvonr96Moo8bbHA&s",
+      "quantityPeople": "1000+",
+      "description": "OpenAI is a leading AI research company, developing ChatGPT and advanced artificial intelligence models.",
+      "details": [
+        "World-class AI research team",
+        "Cutting-edge projects with global impact",
+        "Competitive compensation and benefits",
+        "Opportunities to publish in top AI conferences"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Meta",
+      "address": "1 Hacker Way, Menlo Park, CA, USA",
+      "website": "https://meta.com",
+      "phone": "+1 650-308-7300",
+      "email": "jobs@meta.com",
+      "password": "meta2025",
+      "workingTime": "Mon - Fri: 9:00 - 18:00",
+      "token": "META-TOKEN-2025",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6oBHFogoHGbE8IJ0mNXqhrkbO3kBt9gIBlw&s",
+      "quantityPeople": "70000+",
+      "description": "Meta (formerly Facebook) builds global social platforms such as Facebook, Instagram, and WhatsApp.",
+      "details": [
+        "Work with cutting-edge technology",
+        "Global engineering teams",
+        "High salary and comprehensive benefits"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Microsoft",
+      "address": "One Microsoft Way, Redmond, WA, USA",
+      "website": "https://microsoft.com",
+      "phone": "+1 425-882-8080",
+      "email": "careers@microsoft.com",
+      "password": "msft2025",
+      "workingTime": "Mon - Fri: 9:00 - 18:00",
+      "token": "MSFT-TOKEN-2025",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRATmcdI0ZXqE_4EPcOTXI-HAuQWM4VAo2g&s",
+      "quantityPeople": "180000+",
+      "description": "Microsoft develops Windows, Office, Azure, and numerous global technology solutions.",
+      "details": [
+        "Comprehensive technology ecosystem",
+        "Diverse and inclusive work environment",
+        "Global career opportunities"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "MB Bank",
+      "address": "21 Cát Linh, Đống Đa, Hà Nội, Việt Nam",
+      "website": "https://www.mbbank.com.vn",
+      "phone": "+84 24 3767 4050",
+      "email": "hr@mbbank.com.vn",
+      "password": "mbbank2025",
+      "workingTime": "Thứ 2 - Thứ 6: 8:00 - 17:00, Thứ 7: 8:00 - 12:00",
+      "token": "MBANK-TOKEN-2025",
+      "thumbnail": "https://cdn-new.topcv.vn/unsafe/150x/https://static.topcv.vn/company_logos/tnTxBD6qaf7R4oNEmTUJFppDbP4nDIIz_1686024977____ecafa0568f7253a5a5a548bba467a4ba.jfif",
+      "quantityPeople": "15000+",
+      "description": "Ngân hàng Quân Đội (MB Bank) là một trong những ngân hàng thương mại hàng đầu Việt Nam, cung cấp dịch vụ tài chính đa dạng cho cá nhân và doanh nghiệp.",
+      "details": [
+        "Mạng lưới chi nhánh rộng khắp cả nước",
+        "Dịch vụ ngân hàng số hiện đại",
+        "Mức lương và chế độ phúc lợi cạnh tranh",
+        "Đào tạo và phát triển nhân viên liên tục",
+        "Môi trường làm việc chuyên nghiệp, kỷ luật",
+        "Cơ hội thăng tiến rộng mở"
+      ]
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn A",
+      "email": "nguyenvana@gmail.com",
+      "password": "nguyenvana",
+      "token": "akfhbgajfjGFHjgnfjfkak"
+    },
+    {
+      "id": 2,
+      "fullName": "Nguyễn Thị A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "akfhut7kas9jg2jfkak"
+    }
+  ],
+
+  "content-footer": [
+    {
+      "id": 1,
+      "title": "Dành cho ứng viên",
+      "content": [
+        "Tìm việc làm",
+        "Bảng thông tin ứng viên",
+        "Ứng dụng của tôi",
+        "Công việc yêu thích",
+        "Hộp thư đến của tôi"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dành cho nhà tuyển dụng",
+      "content": [
+        "Tìm ứng viên",
+        "Bảng điều khiển công ty",
+        "Đăng việc làm",
+        "Quản lý công việc"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Các bản demo khác",
+      "content": [
+        "Trình xoay hình ảnh",
+        "Hình minh họa",
+        "Hình nền hình ảnh",
+        "Tìm kiếm hàng đầu",
+        "Thẻ hình ảnh"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Giới thiệu về chúng tôi",
+      "content": [
+        "Giới thiệu về chúng tôi",
+        "Blog",
+        "Câu hỏi thường gặp",
+        "Liên hệ với chúng tôi",
+        "Trang 404"
+      ]
+    }
+  ]
+}
